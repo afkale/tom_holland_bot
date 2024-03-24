@@ -1,8 +1,8 @@
 '''
 Python bot for tim hortons
 '''
+import json
 import tkinter as tk
-
 import cv2
 from PIL import Image, ImageTk
 from pyzbar.pyzbar import decode
